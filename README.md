@@ -22,8 +22,8 @@ I believe in **open knowledge** and aim to make my work accessible and useful to
 
 ## 🔬 Research Experience
 
-- **Robotarium (Georgia Tech)** – Assisted with the development of The Robotarium, an open-source swarm robotics research platform, by creating
-comprehensive guides and example code to enable remote deployment and control of multi-robot systems. (2024 – Present).
+-  **TheRobotarium (Georgia Tech)** – Assisted with the development of **The Robotarium**, an open-source **swarm robotics research platform**, by creating comprehensive guides and example code to enable **remote deployment and control of multi-robot systems**. (2024 – Present)  
+  👉 *You can also visit the [Robotarium website](https://www.robotarium.gatech.edu/) and check out experiments on their [YouTube channel](https://www.youtube.com/@robotarium).*  
 - **Connected Autonomous Vehicle Intersection Control (Special Problems in ISyE)** – Optimizing intersection control algorithms for connected and autonomous vehicles under Dr. Kleywegt (2024 – Present).
 - **Vehicle Routing Problems (FONDECYT, Chile)** – Modeling and exact algorithms for VRPs with transshipment and extensions (2022 – 2023).
 
