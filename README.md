@@ -18,6 +18,8 @@ My name is Renato, and I'm an M.Sc. Student in Operations Research at the **Geor
 In this space, I share my **academic projects**, **research models**, and **personal explorations** focused primarily on **Operations Research**, **Optimization**, and **Simulation**.  
 I believe in **open knowledge** and aim to make my work accessible and useful to anyone interested in these areas.
 
+Most of my Python codes are presented in Jupyter Notebook format, as I find it the best way to maintain clarity, structure, and readability.
+
 ---
 
 ## 🔬 Research Experience
@@ -45,9 +47,10 @@ I believe in **open knowledge** and aim to make my work accessible and useful to
 
 ## 🛠️ Tools & Technologies
 
-- **Programming:** Python, OOP (Object-Oriented Programming), C, R, CUDA, Matlab, Docker, Git
-- **Optimization Solvers:** Gurobi, CPLEX, PuLP, ILOG CPLEX (Constraint Programming), OptQuest add in (Simio)  
-- **Simulation & Data Analytics:** Simio, ArcGIS, Power BI, Advanced Excel  
+- **Programming Languages:**  Python, OOP (Object-Oriented Programming), C, CUDA, MATLAB
+- **Optimization Solvers:** Gurobi, CPLEX, PuLP, ILOG CPLEX (Constraint Programming), OptQuest add in (Simio)
+- **Data Science & Analysis:** SQL, Python (Pandas, NumPy, Scikit-learn, SciPy), R programming
+- **Software & Tools:**  Docker, Git, Simio, LaTeX, Microsoft Office, Power BI, ArcGIS
 - **Languages:** Spanish (Native), English (TOEFL, Upper Advanced English at Georgia Tech Language Institute)
 
 ---
