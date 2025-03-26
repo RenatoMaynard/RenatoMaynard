@@ -3,7 +3,7 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=RenatoMaynard&color=red)
 
 ### When I code, I rely on
 
