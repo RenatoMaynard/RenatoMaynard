@@ -1,4 +1,29 @@
-## Hi there! 👋
+
+## 👋 Hi there, I'm Renato!
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+
+### When I code, I rely on
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat&logo=Mathworks&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Simio](https://img.shields.io/badge/Simio-00B388?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+---
+
+## About Me
 
 My name is Renato, and I'm an M.Sc. Student in Operations Research at the **Georgia Institute of Technology**. I'm captivated by the power of mathematical modeling and algorithmic optimization to solve complex real-world problems. Welcome to my GitHub repository!
 
@@ -46,7 +71,6 @@ Most of my Python codes are presented in Jupyter Notebook format, as I find it t
 ---
 
 ## 🛠️ Tools & Technologies
-
 - **Programming Languages:**  Python, OOP (Object-Oriented Programming), C, CUDA, MATLAB
 - **Optimization Solvers:** Gurobi, CPLEX, PuLP, ILOG CPLEX (Constraint Programming), OptQuest add in (Simio)
 - **Data Science & Analysis:** SQL, Python (Pandas, NumPy, Scikit-learn, SciPy), R programming
