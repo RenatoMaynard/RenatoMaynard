@@ -28,9 +28,7 @@
 
 ## About Me
 
-My name is Renato, and I'm an M.Sc. Student in Operations Research at the **Georgia Institute of Technology**. I'm captivated by the power of mathematical modeling and algorithmic optimization to solve complex real-world problems. Welcome to my GitHub repository!
-
----
+Hi, I'm Renato — I hold an M.Sc. in Operations Research from the Georgia Institute of Technology.  I'm captivated by the power of mathematical modeling and algorithmic optimization to solve complex real-world problems. Welcome to my GitHub repository!
 
 ## 📚 Academic Background
 
