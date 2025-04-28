@@ -34,7 +34,7 @@ My name is Renato, and I'm an M.Sc. Student in Operations Research at the **Geor
 
 ## 📚 Academic Background
 
-🎓 **Master of Science in Operations Research** — Georgia Tech (Aug 2023 – May 2025)  
+🎓 **Master of Science in Operations Research** — Georgia Institute of Technology (Aug 2023 – May 2025)  
 📌 Coursework: : Linear Optimization, Non-linear Optimization, Discrete Optimization, Deterministic Optimization, Constraint Programming, Computational Methods in Optimization, Simulation, Stochastic Processes I, Probabilistic Models and Their Applications, Statistical Modeling and Regression Analysis, Machine Learning, Transportation Systems Analysis, Mathematics in Operations Research 
 <!-- 🎓 **Incoming Ph.D. in Operations Research** — Virginia Tech (Starting Aug 2025) -->
 🎓 **B.Sc. in Industrial Engineering with Highest Distinction** — San Sebastian University (Chile)  
