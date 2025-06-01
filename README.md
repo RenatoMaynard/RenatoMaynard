@@ -75,7 +75,7 @@ Most of my Python codes are presented in Jupyter Notebook format, as I find it t
 - **Programming Languages:**  Python, OOP (Object-Oriented Programming), C, CUDA, MATLAB
 - **Optimization Solvers:** Gurobi, CPLEX, PuLP, ILOG CPLEX (Constraint Programming), OptQuest add in (Simio)
 - **Data Science & Analysis:** SQL, Python (Pandas, NumPy, Scikit-learn, PyTorch, SciPy), R programming
-- **Software & Tools:**  Docker, Git, Simio, LaTeX, Microsoft Office, Power BI, AutoCAD
+- **Software & Tools:**  Docker, Git, Simio, LaTeX, Power BI, AutoCAD
 - **Languages:** Spanish (Native), English (TOEFL, Upper Advanced English at Georgia Tech Language Institute)
 - **Certifications:** Six Sigma Yellow Belt 
 
