@@ -58,7 +58,6 @@ Most of my Python codes are presented in Jupyter Notebook format, as I find it t
 ---
 
 ## Work Experience
-- 
 - **Optimization Intern at Arauco (Chile)** – Developed a **Mixed-Integer Linear Programming (MILP)** model to optimize production lines for the **MAPA Project**, the world’s largest eucalyptus pulp initiative, to optimize production lines and wood yard operations, simulate multiple production-rate scenarios, analyze KPIs, and automate a previously manual process to a fully automatic decision making process.
 
 ---
